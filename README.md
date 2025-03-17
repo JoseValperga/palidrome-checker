@@ -13,7 +13,7 @@ Finalmente, se hizo el deploy en Vercel a partir del repositorio de GitHub
 Deploy -> [https://palidrome-checker-xi.vercel.app/](https://palidrome-checker-xi.vercel.app/)
 
 
-# Descripción del Desafío -> Crea un Verificador de Palíndromos
+# Transcripción del Desafío -> Crea un Verificador de Palíndromos
 
 Un palíndromo es una palabra o frase que se puede leer de la misma manera hacia adelante y hacia atrás, ignorando la puntuación, el uso de mayúsculas/minúsculas y los espacios.
 
