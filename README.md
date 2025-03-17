@@ -1,3 +1,10 @@
+# Verificador de Palíndromos
+
+SPA creada para participar del challenge de ingreso a Ethereum Dev Pack
+Fue desarrollada integramente en Visual Studio Code para luego ser volcada en freeCodeCamp->
+El código fue subido a GitHub -> 
+
+
 # Crea un Verificador de Palíndromos
 
 Un palíndromo es una palabra o frase que se puede leer de la misma manera hacia adelante y hacia atrás, ignorando la puntuación, el uso de mayúsculas/minúsculas y los espacios.
