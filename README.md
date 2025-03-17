@@ -1,11 +1,19 @@
 # Verificador de Palíndromos
 
-SPA creada para participar del challenge de ingreso a Ethereum Dev Pack
-Fue desarrollada integramente en Visual Studio Code para luego ser volcada en freeCodeCamp->
-El código fue subido a GitHub -> 
+SPA creada para participar del challenge de ingreso a Ethereum Dev Pack.
+
+Fue desarrollada integramente en Visual Studio Code para luego ser volcada en 
+
+freeCodeCamp -> [https://www.freecodecamp.org/fcce18d254c-af6e-4695-a70f-7e66d23e7674](https://www.freecodecamp.org/fcce18d254c-af6e-4695-a70f-7e66d23e7674)
+
+El código fue subido a GitHub -> [https://github.com/JoseValperga/palidrome-checker](https://github.com/JoseValperga/palidrome-checker)
+
+Finalmente, se hizo el deploy en Vercel a partir del repositorio de GitHub
+
+Deploy -> [https://palidrome-checker-xi.vercel.app/](https://palidrome-checker-xi.vercel.app/)
 
 
-# Crea un Verificador de Palíndromos
+# Descripción del Desafío -> Crea un Verificador de Palíndromos
 
 Un palíndromo es una palabra o frase que se puede leer de la misma manera hacia adelante y hacia atrás, ignorando la puntuación, el uso de mayúsculas/minúsculas y los espacios.
 
